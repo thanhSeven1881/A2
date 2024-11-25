@@ -1,0 +1,32 @@
+﻿{
+  "subjects": [
+    {
+      "subject": "Hello",
+      "id": 1,
+      "english_sentences": [
+        "Hey man.",
+        "How’s it going? or How are you doing?",
+        "What’s up?, What’s new?, or What’s going on?"
+      ],
+      "vietnamese_sentences": [
+        "Ê anh bạn, hoặc Chào.",
+        "Dạo này bạn thế nào?",
+        "Có chuyện gì đó? Có gì mới không? Có chuyện gì vậy ạ?"
+      ]
+    },
+    {
+      "subject": "Goodbye",
+      "id": 2,
+      "english_sentences": [
+        "Bye!",
+        "Goodbye!",
+        "Bye for now!"
+      ],
+      "vietnamese_sentences": [
+        "Tạm biệt!",
+        "Tạm biệt nhé!",
+        "Tạm biệt nhé!"
+      ]
+    }
+  ]
+}
